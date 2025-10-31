@@ -1,0 +1,213 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bit.ly/lcgusmao" resolutions="1x" timestamp="1603316263521">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4224023420" ref="index"/>
+    <file name="index.css" crc="4043503901" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="incognito.png" crc="4177379873" seo="true" mt="1567718016000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3979511173" ref="phone>index"/>
+    <file name="logo@05x.png" crc="3873324171" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29621.png" crc="3949806351" ref="phone>index"/>
+    <file name="u29621-r.png" crc="323720925" ref="phone>index"/>
+    <file name="3x4_real-terno-crop-u29640.jpg" crc="3939213079" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-play-icone-7.png" crc="3834880647" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin 220848.png" crc="4127316294" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-icone-icon-7.png" crc="4180273948" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmail-cone-icon-7.png" crc="169138440" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-icone-7.png" crc="507996946" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vm-crop-u27700.jpg" crc="3779730308" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kalray.jpg" crc="4121656164" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meta.jpg" crc="4108939083" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="danilo.jpg" crc="382150707" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lorincz.jpg" crc="4122912054" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="figdanc-crop-u27683.jpg" crc="162900706" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="politicacao.jpg" crc="320617529" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66.jpg" crc="461376057" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="republica.jpg" crc="438149296" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="network1323x202.jpg" crc="516008573" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pde.jpg" crc="342334140" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="network1317x198.jpg" crc="85247510" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neural317x198.jpg" crc="188269393" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="samba.jpg" crc="3935417171" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leo-crop-u27841.jpg" crc="71144669" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hipnoise-crop-u27811.jpg" crc="275613607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jleiva.jpg" crc="290836224" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="puma.jpg" crc="4017009677" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sdr1.jpg" crc="3918215145" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sdr2.jpg" crc="4037287301" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="divine.jpg" crc="3933423774" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="birthday.jpg" crc="348994557" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrela.jpg" crc="212720828" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mamoeiro-crop-u27854.jpg" crc="465827348" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maca-crop-u27871.jpg" crc="4077613236" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="canson317x198.jpg" crc="112350050" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="incognito.png" crc="175400241" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="incognito-u28027-r-fr.png" crc="440127191" ref="phone>index:index"/>
+    <file name="incognito-u28027-m-fr.png" crc="3924503934" ref="phone>index:index"/>
+    <file name="3x4_real-terno179x239.jpg" crc="4161971774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="myname.png" crc="214227147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vm-crop-u1537.jpg" crc="3779730308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="figdanc-crop-u1753.jpg" crc="162900706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="network1.jpg" crc="486864951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neural.jpg" crc="4096934798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hipnoise-crop-u2842.jpg" crc="275613607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leo-crop-u2756.jpg" crc="71144669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mamoeiro-crop-u3254.jpg" crc="175094680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maca.jpg" crc="150771634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="canson.jpg" crc="98379302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3941460862" ref="phone>index"/>
+      <file name="index.css" crc="4255967588" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="319183955" seo="true" mt="1603316214819" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3773405483" seo="true" mt="1603314658929" redirect="true"/>
+</manifest>
